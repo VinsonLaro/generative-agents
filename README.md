@@ -5,6 +5,8 @@
 * 论文地址：https://arxiv.org/abs/2304.03442.
 * 论文演示地址：https://reverie.herokuapp.com/arXiv_Demo/
 
+*Read this in [English](README_en.md).*
+
 ## 安装
 
 这些模型以notebooks的形式分发，可以很容易地在本地或谷歌Colab上运行。我们建议在本地运行时使用Jupyter Lab。notebooks应该可以直接在谷歌Colab上运行。
